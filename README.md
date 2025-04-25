@@ -12,6 +12,15 @@ This project uses the **[Home Value Insights](https://www.kaggle.com/datasets/pr
 Place the file in:
 data/house_price_regression_dataset.csv
 
+## Output Files
+1. EDA Plots → plots/
+
+2. Trained Model → artifacts/best_model.pkl
+
+3. Preprocessor → artifacts/preprocessor.pkl
+
+4. Predictions → predictions.csv
+
 ## Author
 Developed by Styliani Vasileiadou
 Built using a modular structure inspired by the Thesis project.
