@@ -83,7 +83,7 @@ customization:
 author:
   title: "Author"
   description: |
-    Developed by Styliani Vasileiadou
+  Developed by Styliani Vasileiadou
 
 license:
   title: "License & Attribution"
