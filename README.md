@@ -1,4 +1,8 @@
-# House-Pricing-ML
+# House Price Prediction Pipeline
 
-Test Machine Learning project, dataset pulled from here:
-https://www.kaggle.com/datasets/prokshitha/home-value-insights?resource=download
+A modular and lightweight machine learning pipeline for predicting house prices using regression models. 
+
+---
+
+## Project Structure
+
