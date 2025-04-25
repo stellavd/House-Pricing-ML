@@ -18,12 +18,13 @@ To predict new house prices:
 Add data/new_house_data.csv (without the House_Price column)
 
 Run:
-
+```bash
 bash
 Copy
 Edit
 python infer.py
 Output saved to: predictions.csv
+```
 
 ## Output Files
 1. EDA Plots → plots/
