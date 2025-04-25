@@ -1,7 +1,7 @@
 # House Price Prediction Pipeline
 
 A modular machine learning pipeline to predict house prices using structured property data.  
-Inspired by the structure of the `thesisbeta` project.
+Inspired by the structure of the `Thesis` project.
 
 ---
 
@@ -11,6 +11,12 @@ This project uses the **[Home Value Insights](https://www.kaggle.com/datasets/pr
 
 Place the file in:
 data/house_price_regression_dataset.csv
+
+## Author
+Developed by Styliani Vasileiadou
+Built using a modular structure inspired by the Thesis project.
+
+
 
 ## License & Attribution
 This project is for educational use only.
