@@ -1,4 +1,4 @@
-# "House Price Prediction Pipeline"
+# House Price Prediction Pipeline
 description: |
   A modular machine learning pipeline to predict house prices based on physical features of residential properties. This project is structured for clarity, scalability, and reproducibility — inspired by the `Thesis` architecture.
 
